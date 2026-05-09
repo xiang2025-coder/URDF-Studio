@@ -1,0 +1,3 @@
+# 排除超过 25 MiB 的文件
+public/g1_29dof_rev_1_0/
+third_party/
